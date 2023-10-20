@@ -9,3 +9,12 @@ https://t.me/GlabBotTest
 
 link bot telegram
 @TestGlabBot
+
+
+_________________________________________________________
+
+Per fare dei test ho creato questo Bot ospiti
+
+TOKEN = '6730262674:AAFMsH40g6Q_3Mebl0N8ZhDSZmzPu1GhGYc'
+
+t.me/GlabOspitibot
